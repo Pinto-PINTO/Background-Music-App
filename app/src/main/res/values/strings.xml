@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Background-Music-Player</string>
+    <string name="btn_start">START</string>
+    <string name="btn_end">STOP</string>
+</resources>
